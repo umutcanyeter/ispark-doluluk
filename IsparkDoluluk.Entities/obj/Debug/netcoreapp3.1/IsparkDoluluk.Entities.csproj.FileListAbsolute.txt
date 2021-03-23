@@ -1,0 +1,9 @@
+C:\Users\umutc\source\repos\IsparkDoluluk\IsparkDoluluk.Entities\bin\Debug\netcoreapp3.1\IsparkDoluluk.Entities.deps.json
+C:\Users\umutc\source\repos\IsparkDoluluk\IsparkDoluluk.Entities\bin\Debug\netcoreapp3.1\IsparkDoluluk.Entities.dll
+C:\Users\umutc\source\repos\IsparkDoluluk\IsparkDoluluk.Entities\bin\Debug\netcoreapp3.1\IsparkDoluluk.Entities.pdb
+C:\Users\umutc\source\repos\IsparkDoluluk\IsparkDoluluk.Entities\obj\Debug\netcoreapp3.1\IsparkDoluluk.Entities.AssemblyInfoInputs.cache
+C:\Users\umutc\source\repos\IsparkDoluluk\IsparkDoluluk.Entities\obj\Debug\netcoreapp3.1\IsparkDoluluk.Entities.AssemblyInfo.cs
+C:\Users\umutc\source\repos\IsparkDoluluk\IsparkDoluluk.Entities\obj\Debug\netcoreapp3.1\IsparkDoluluk.Entities.csproj.CoreCompileInputs.cache
+C:\Users\umutc\source\repos\IsparkDoluluk\IsparkDoluluk.Entities\obj\Debug\netcoreapp3.1\IsparkDoluluk.Entities.dll
+C:\Users\umutc\source\repos\IsparkDoluluk\IsparkDoluluk.Entities\obj\Debug\netcoreapp3.1\IsparkDoluluk.Entities.pdb
+C:\Users\umutc\source\repos\IsparkDoluluk\IsparkDoluluk.Entities\obj\Debug\netcoreapp3.1\IsparkDoluluk.Entities.csprojAssemblyReference.cache

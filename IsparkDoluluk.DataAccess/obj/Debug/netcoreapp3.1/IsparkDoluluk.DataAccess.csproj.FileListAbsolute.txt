@@ -1,0 +1,15 @@
+C:\Users\umutc\source\repos\IsparkDoluluk\IsparkDoluluk.DataAccess\bin\Debug\netcoreapp3.1\IsparkDoluluk.DataAccess.deps.json
+C:\Users\umutc\source\repos\IsparkDoluluk\IsparkDoluluk.DataAccess\bin\Debug\netcoreapp3.1\IsparkDoluluk.DataAccess.runtimeconfig.json
+C:\Users\umutc\source\repos\IsparkDoluluk\IsparkDoluluk.DataAccess\bin\Debug\netcoreapp3.1\IsparkDoluluk.DataAccess.runtimeconfig.dev.json
+C:\Users\umutc\source\repos\IsparkDoluluk\IsparkDoluluk.DataAccess\bin\Debug\netcoreapp3.1\IsparkDoluluk.DataAccess.dll
+C:\Users\umutc\source\repos\IsparkDoluluk\IsparkDoluluk.DataAccess\bin\Debug\netcoreapp3.1\IsparkDoluluk.DataAccess.pdb
+C:\Users\umutc\source\repos\IsparkDoluluk\IsparkDoluluk.DataAccess\bin\Debug\netcoreapp3.1\IsparkDoluluk.Entities.dll
+C:\Users\umutc\source\repos\IsparkDoluluk\IsparkDoluluk.DataAccess\bin\Debug\netcoreapp3.1\IsparkDoluluk.Entities.pdb
+C:\Users\umutc\source\repos\IsparkDoluluk\IsparkDoluluk.DataAccess\obj\Debug\netcoreapp3.1\IsparkDoluluk.DataAccess.csprojAssemblyReference.cache
+C:\Users\umutc\source\repos\IsparkDoluluk\IsparkDoluluk.DataAccess\obj\Debug\netcoreapp3.1\IsparkDoluluk.DataAccess.AssemblyInfoInputs.cache
+C:\Users\umutc\source\repos\IsparkDoluluk\IsparkDoluluk.DataAccess\obj\Debug\netcoreapp3.1\IsparkDoluluk.DataAccess.AssemblyInfo.cs
+C:\Users\umutc\source\repos\IsparkDoluluk\IsparkDoluluk.DataAccess\obj\Debug\netcoreapp3.1\IsparkDoluluk.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\umutc\source\repos\IsparkDoluluk\IsparkDoluluk.DataAccess\obj\Debug\netcoreapp3.1\IsparkDoluluk.DataAccess.csproj.CopyComplete
+C:\Users\umutc\source\repos\IsparkDoluluk\IsparkDoluluk.DataAccess\obj\Debug\netcoreapp3.1\IsparkDoluluk.DataAccess.dll
+C:\Users\umutc\source\repos\IsparkDoluluk\IsparkDoluluk.DataAccess\obj\Debug\netcoreapp3.1\IsparkDoluluk.DataAccess.pdb
+C:\Users\umutc\source\repos\IsparkDoluluk\IsparkDoluluk.DataAccess\obj\Debug\netcoreapp3.1\IsparkDoluluk.DataAccess.genruntimeconfig.cache

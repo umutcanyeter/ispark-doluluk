@@ -1,0 +1,16 @@
+C:\Users\umutc\source\repos\IsparkDoluluk\IsparkDoluluk.Business\bin\Debug\netcoreapp3.1\IsparkDoluluk.Business.deps.json
+C:\Users\umutc\source\repos\IsparkDoluluk\IsparkDoluluk.Business\bin\Debug\netcoreapp3.1\IsparkDoluluk.Business.dll
+C:\Users\umutc\source\repos\IsparkDoluluk\IsparkDoluluk.Business\bin\Debug\netcoreapp3.1\IsparkDoluluk.Business.pdb
+C:\Users\umutc\source\repos\IsparkDoluluk\IsparkDoluluk.Business\bin\Debug\netcoreapp3.1\IsparkDoluluk.DataAccess.dll
+C:\Users\umutc\source\repos\IsparkDoluluk\IsparkDoluluk.Business\bin\Debug\netcoreapp3.1\IsparkDoluluk.Entities.dll
+C:\Users\umutc\source\repos\IsparkDoluluk\IsparkDoluluk.Business\bin\Debug\netcoreapp3.1\IsparkDoluluk.DataAccess.pdb
+C:\Users\umutc\source\repos\IsparkDoluluk\IsparkDoluluk.Business\bin\Debug\netcoreapp3.1\IsparkDoluluk.Entities.pdb
+C:\Users\umutc\source\repos\IsparkDoluluk\IsparkDoluluk.Business\obj\Debug\netcoreapp3.1\IsparkDoluluk.Business.csprojAssemblyReference.cache
+C:\Users\umutc\source\repos\IsparkDoluluk\IsparkDoluluk.Business\obj\Debug\netcoreapp3.1\IsparkDoluluk.Business.AssemblyInfoInputs.cache
+C:\Users\umutc\source\repos\IsparkDoluluk\IsparkDoluluk.Business\obj\Debug\netcoreapp3.1\IsparkDoluluk.Business.AssemblyInfo.cs
+C:\Users\umutc\source\repos\IsparkDoluluk\IsparkDoluluk.Business\obj\Debug\netcoreapp3.1\IsparkDoluluk.Business.csproj.CoreCompileInputs.cache
+C:\Users\umutc\source\repos\IsparkDoluluk\IsparkDoluluk.Business\obj\Debug\netcoreapp3.1\IsparkDoluluk.Business.csproj.CopyComplete
+C:\Users\umutc\source\repos\IsparkDoluluk\IsparkDoluluk.Business\obj\Debug\netcoreapp3.1\IsparkDoluluk.Business.dll
+C:\Users\umutc\source\repos\IsparkDoluluk\IsparkDoluluk.Business\obj\Debug\netcoreapp3.1\IsparkDoluluk.Business.pdb
+C:\Users\umutc\source\repos\IsparkDoluluk\IsparkDoluluk.Business\bin\Debug\netcoreapp3.1\IsparkDoluluk.Dto.dll
+C:\Users\umutc\source\repos\IsparkDoluluk\IsparkDoluluk.Business\bin\Debug\netcoreapp3.1\IsparkDoluluk.Dto.pdb
