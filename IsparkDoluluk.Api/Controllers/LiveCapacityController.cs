@@ -3,6 +3,7 @@ using IsparkDoluluk.Api.CustomFilters;
 using IsparkDoluluk.Business.Abstract;
 using IsparkDoluluk.Business.StringInfos;
 using IsparkDoluluk.Dto.Concrete;
+using IsparkDoluluk.Entities.Concrete;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -123,6 +124,33 @@ namespace IsparkDoluluk.Api.Controllers
             }
 
             liveCapacity.CurrentCapacity = dto.Capacity;
+            return Ok();
+        }
+
+        [HttpGet("decreaselivecapacity/{id}")]
+        [ServiceFilter(typeof(ValidId<ParkPlace>))]
+        [Authorize(Roles = RoleInfo.ParkPlaceTerminal)]
+        public async Task<IActionResult> DecreaseLiveCapacity(int id)
+        {
+            List<ErrorModel> errorModels = new List<ErrorModel>();
+            var parkPlace = await _parkPlaceService.GetById(id);
+            var liveCapacity = await _liveCapacityService.GetByFilter(I => I.ParkPlaceId == id);
+            if(liveCapacity.CurrentCapacity <= 0)
+            {
+                var error = new ErrorModel()
+                {
+                    FieldName = "Capacity",
+                    Message = "Geçerli park alanı için boş alan sayısı 0'dır. Daha fazla düşürülemez."
+                };
+                errorModels.Add(error);
+                var response = new ErrorResponse()
+                {
+                    Errors = errorModels
+                };
+                return BadRequest(response);
+            }
+
+            liveCapacity.CurrentCapacity -= 1;
             return Ok();
         }
     }

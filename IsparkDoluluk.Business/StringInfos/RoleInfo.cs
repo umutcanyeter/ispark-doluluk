@@ -7,7 +7,8 @@ namespace IsparkDoluluk.Business.StringInfos
     public class RoleInfo
     {
         public const string Admin = "Admin";
-        public const string ParkEmployee = "ParkEmployee";
         public const string ParkManager = "ParkManager";
+        public const string ParkEmployee = "ParkEmployee";
+        public const string ParkPlaceTerminal = "Terminal";
     }
 }
