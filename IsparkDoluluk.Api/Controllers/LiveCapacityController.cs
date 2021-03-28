@@ -151,6 +151,35 @@ namespace IsparkDoluluk.Api.Controllers
             }
 
             liveCapacity.CurrentCapacity -= 1;
+            await _liveCapacityService.Update(liveCapacity);
+            return Ok();
+        }
+
+        [HttpGet("increaselivecapacity/{id}")]
+        [ServiceFilter(typeof(ValidId<ParkPlace>))]
+        [Authorize(Roles = RoleInfo.ParkPlaceTerminal)]
+        public async Task<IActionResult> IncreaseLiveCapacity(int id)
+        {
+            List<ErrorModel> errorModels = new List<ErrorModel>();
+            var parkPlace = await _parkPlaceService.GetById(id);
+            var liveCapacity = await _liveCapacityService.GetByFilter(I => I.ParkPlaceId == id);
+            if (liveCapacity.CurrentCapacity >= parkPlace.Capacity)
+            {
+                var error = new ErrorModel()
+                {
+                    FieldName = "Capacity",
+                    Message = "Geçerli park alanı için boş alan sayısı park alanın maksimum kapasitesi ile aynıdır. Daha fazla arttıramazsınız."
+                };
+                errorModels.Add(error);
+                var response = new ErrorResponse()
+                {
+                    Errors = errorModels
+                };
+                return BadRequest(response);
+            }
+
+            liveCapacity.CurrentCapacity += 1;
+            await _liveCapacityService.Update(liveCapacity);
             return Ok();
         }
     }
